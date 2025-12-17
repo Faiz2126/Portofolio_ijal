@@ -39,7 +39,7 @@
     }
 
     function setup() {
-        for (let i = 0; i < 12; i++) { particles.push(new Particle()); }
+        for (let i = 0; i < 3; i++) { particles.push(new Particle()); }
     }
 
     function animate() {
